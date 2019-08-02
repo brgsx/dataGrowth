@@ -1,6 +1,6 @@
 # dataGrowth
 
-Articles 
-Tools
-New ideias
-Martech
+* Articles 
+* Tools
+* New ideias
+* Martech
